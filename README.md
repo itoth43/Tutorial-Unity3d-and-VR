@@ -8,6 +8,22 @@ For those interested in getting started with Unity3D and Virtual Reality.
 
 This is a Unity3D program based on basic VR principles and fundamentals. The game topic is a "platformer" such as Super Mario Bros. The movement metaphor will be an arm swinging locomotion provided by VRTK.
 
+
+## Glossary:
+    - Getting Started
+        - Installing and Important Files
+            - Unity3D
+            - Project Package Download
+            - VRTK plugin
+            - SteamVR plugin
+        - Understanding the process and creating your Project
+            - Some Initial Advice Before Starting
+            - VR Principles
+            - Unity Help
+            - Unity Layout Description
+            - Building the Environment
+            - Author
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -36,7 +52,7 @@ Make sure to select the assets that you will need to port to the OS that you nee
 *package selection images for installation instructions*
 
 
-### Project Package Download
+#### Project Package Download
 
 HOW-TO:
 You can import this package in two ways:
@@ -271,3 +287,10 @@ They can then be manipulated by:
 * **Isaiah Toth**
 
 A Software Consultant/Engineer and Clemson University Graduate 2018.
+
+
+Isaiah Toth is the youngest in a big family from a small town in north east Ohio. He is a Senior Computer Science student at Clemson University where he spends most of his time working with machine learning, web development and virtual reality. He has worked with several teams on big projects and some even winning awards for their work.
+
+Since the his first year at Clemson he has worked full time jobs holding titles like Lieutenant of the student police, software developing Intern, Housing manager for the University, and more. Most of these jobs included instructing, training, and managing 15-30 other workers. He is always working to achieve his goal of using his abilities to help others. Isaiah enjoys creating art through forms of writing, sketching, and programming.
+
+Isaiah is always looking for new opportunities to grow in the software engineering community and chances to share his experiences with others. 
