@@ -1,5 +1,5 @@
 # A Unity3D and VR tutorial
-## Using Game Development and VR concepts
+## using game development and VR concepts
 
 (This page was created for the CUhackit Hackathon at Clemson University Spring of 2018)
 
@@ -27,16 +27,6 @@ This is a Unity3D program based on basic VR principles and fundamentals. The gam
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-This GitHub page will also go into detail about the following:
-
-    - Creating a project
-        - Building the environment
-            - interactive and static elements
-            - Adding lighting
-            - Creating UI for VR (in World Space)
-            - Scene Manager
-        - Scripts
 
 ### Installing and Important Files
 
@@ -272,6 +262,12 @@ They can then be manipulated by:
     Scene Manager (Concept):
 
     The Scene Manager is used to control important variables and/or functions used throughout your entire project.
+
+    Canvas and UI (Concept and Reference):
+
+    You'll see the most important part in VR with UI is that it isn't obstructive.
+
+    See the settings in the Inspector for the Canvas used in the project scene that the "Render Mode" is set to World Space. This will keep the UI from being locked to the main camera.
 
 
 ## Authors
