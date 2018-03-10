@@ -1,5 +1,5 @@
 # A Unity3D and VR tutorial
-## using game development and VR concepts
+## Using Game Development and VR concepts
 
 (This page was created for the CUhackit Hackathon at Clemson University Spring of 2018)
 
