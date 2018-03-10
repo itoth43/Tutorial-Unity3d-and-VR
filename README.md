@@ -30,6 +30,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing and Important Files
 
+Summary:
+    - Install Unity3D
+        - Standard Assets
+        - Skyboxes
+    - Drag in "My_Assets"
+    - Import VRTK and SteamVR from AssetStore
+
 #### Unity3D
 
 Download and Install Unity3D:
