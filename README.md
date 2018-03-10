@@ -9,7 +9,7 @@ For those interested in getting started with Unity3D and Virtual Reality.
 This is a Unity3D program based on basic VR principles and fundamentals. The game topic is a "platformer" such as Super Mario Bros. The movement metaphor will be an arm swinging locomotion provided by VRTK.
 
 
-## Table of Contents:
+## Glossary:
     - Getting Started
         - Installing and Important Files
             - Unity3D
@@ -49,8 +49,6 @@ https://unity3d.com/get-unity/download/archive
 
 Make sure to select the assets that you will need to port to the OS that you need whether that be Windows, Linux, or MacOS
 
-*package selection images for installation instructions*
-
 
 #### Project Package Download
 
@@ -67,7 +65,6 @@ If you want to do the installations/imports separately on your own, feel free to
 
 #### VRTK plugin
 
-*Unity3d image*
 
 Import VRTK from the Unity3D Asset Store:
 https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-toolkit-64131
@@ -75,7 +72,6 @@ https://assetstore.unity.com/packages/tools/vrtk-virtual-reality-toolkit-vr-tool
 
 #### SteamVR Plugin
 
-*SteamVR image*
 
 SteamVR SDK:
 This allows the user to implement using Steams VR capabilities for the HTC Vive
@@ -167,10 +163,6 @@ Console Window
         - Debug Log output
         - Compile/runtime warnings
         - Compile/runtime errors
-
-A snapshot of what this layout looks like:
-
-*image of layout*
 
 #### Building the Environment
 
@@ -293,4 +285,4 @@ Isaiah Toth is the youngest in a big family from a small town in north east Ohio
 
 Since the his first year at Clemson he has worked full time jobs holding titles like Lieutenant of the student police, software developing Intern, Housing manager for the University, and more. Most of these jobs included instructing, training, and managing 15-30 other workers. He is always working to achieve his goal of using his abilities to help others. Isaiah enjoys creating art through forms of writing, sketching, and programming.
 
-Isaiah is always looking for new opportunities to grow in the software engineering community and chances to share his experiences with others. 
+Isaiah is always looking for new opportunities to grow in the software engineering community and chances to share his experiences with others.
