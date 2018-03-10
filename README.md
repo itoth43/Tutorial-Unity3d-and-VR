@@ -39,19 +39,10 @@ https://unity3d.com/get-unity/download/archive
 
 Make sure to select the assets that you will need to port to the OS that you need whether that be Windows, Linux, or MacOS
 
-
-#### Project Package Download
-
-HOW-TO:
-You can import this package in two ways:
-
-    - From the unity editor tabs -> Assets -> Import Package -> Custom Package...
-
-    - Drag it into your project
-
-This package has all of the plugins listed below.
-
-If you want to do the installations/imports separately on your own, feel free to use the instructions below.
+Packages to install with initial/project install:
+    - Standard Assets
+    - Sample Scenes
+    - Day-Night skyboxes
 
 #### VRTK plugin
 
