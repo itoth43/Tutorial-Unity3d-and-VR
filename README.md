@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing and Important Files
 
-Summary:
+    Summary:
     - Install Unity3D
         - Standard Assets
         - Skyboxes
